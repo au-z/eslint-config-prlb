@@ -1,4 +1,4 @@
-# eslint-config-prlb
+# eslint-config-prlb [![npm version](https://badge.fury.io/js/eslint-config-prlb.svg)](https://badge.fury.io/js/eslint-config-prlb) [![Build Status](https://travis-ci.org/auzmartist/eslint-config-prlb.svg?branch=master)](https://travis-ci.org/auzmartist/eslint-config-prlb)
 
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for the [Google JavaScript style guide on which this is based](https://google.github.io/styleguide/jsguide.html)
 
