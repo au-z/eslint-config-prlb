@@ -62,7 +62,7 @@ module.exports = {
 		// 'class-methods-use-this': 0,
 		// 'complexity': 0,
 		// 'consistent-return': 0
-		'curly': 2, // TODO(philipwalton): add an option to enforce braces with
+		'curly': 2,
 									// the exception of simple, single-line if statements.
 		// 'default-case': 0,
 		// 'dot-location': 0,
